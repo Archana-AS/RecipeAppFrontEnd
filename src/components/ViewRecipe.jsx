@@ -109,6 +109,56 @@ const ViewRecipe = () => {
                                     </div>
                                 </div>
                             </div>
+                            <div className="col col-12 col-sm-12 col-md-6 col-lg-4 col-xl-3 col-xxl-3">
+                                <div class="card" >
+                                    <img height="300" src="https://th.bing.com/th/id/OIP.8zof8FPwSSBv_H_GuHvNFAHaE8?rs=1&pid=ImgDetMain" class="card-img-top" alt="..." />
+                                    <div class="card-body">
+                                        <h5 class="card-title">Healthy green juice</h5>
+                                        <p class="card-text">ingredients required</p>
+                                        <a href="#" class="btn btn-primary">Recipe</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="col col-12 col-sm-12 col-md-6 col-lg-4 col-xl-3 col-xxl-3">
+                                <div class="card" >
+                                    <img height="300" src="https://deliciouslittlebites.com/wp-content/uploads/2016/06/Mixed-Berry-Smoothie-Recipe-3.jpg" class="card-img-top" alt="..." />
+                                    <div class="card-body">
+                                        <h5 class="card-title">Berry smoothie</h5>
+                                        <p class="card-text">ingredients required</p>
+                                        <a href="#" class="btn btn-primary">Recipe</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="col col-12 col-sm-12 col-md-6 col-lg-4 col-xl-3 col-xxl-3">
+                                <div class="card" >
+                                    <img height="300" src="https://diyjoy.com/wp-content/uploads/2016/01/Double-Decker-Tropical-Avocado-Smoothies.jpg" class="card-img-top" alt="..." />
+                                    <div class="card-body">
+                                        <h5 class="card-title">grape Strawberry shake</h5>
+                                        <p class="card-text">ingredients required</p>
+                                        <a href="#" class="btn btn-primary">Recipe</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="col col-12 col-sm-12 col-md-6 col-lg-4 col-xl-3 col-xxl-3">
+                                <div class="card" >
+                                    <img height="300" src="https://i0.wp.com/kristineskitchenblog.com/wp-content/uploads/2017/08/oatmeal-breakfast-smoothie-1200-5306.jpg?resize=600%2C900&ssl=1" class="card-img-top" alt="..." />
+                                    <div class="card-body">
+                                        <h5 class="card-title">Oats Drink</h5>
+                                        <p class="card-text">ingredients required</p>
+                                        <a href="#" class="btn btn-primary">Recipe</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="col col-12 col-sm-12 col-md-6 col-lg-4 col-xl-3 col-xxl-3">
+                                <div class="card" >
+                                    <img height="300" src="https://th.bing.com/th/id/OIP.qb0YSvaO0CiBnenvOfbqYQHaLH?rs=1&pid=ImgDetMain" class="card-img-top" alt="..." />
+                                    <div class="card-body">
+                                        <h5 class="card-title">Fruit Oat bar</h5>
+                                        <p class="card-text">ingredients required</p>
+                                        <a href="#" class="btn btn-primary">Recipe</a>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
